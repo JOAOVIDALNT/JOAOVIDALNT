@@ -1,5 +1,5 @@
-Hi! I'm João Vidal from Brazil I'm 22 years old
-I'm currently studying nodejs
+Hi! I'm João Vidal from Brazil I'm 22 years old <br>
+I'm currently studying nodejs <br>
 I have some experience with html and css but since i've start my javascript studies I choose backend to begin.
 Someday I'll be back to frontend and learn some React or maybe React Native(?)
 
