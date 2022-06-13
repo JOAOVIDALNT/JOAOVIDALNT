@@ -19,6 +19,6 @@
 
 <br>
 
-[![João Vidal GitHub stats](https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT)](https://https://github.com/JOAOVIDALNT/JOAOVIDALNT)
+[![João Vidal GitHub stats](https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical)](https://https://github.com/JOAOVIDALNT/JOAOVIDALNT)
 
 
