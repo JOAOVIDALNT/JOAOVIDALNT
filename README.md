@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  📑 Propostas: <strong><a href="https://www.linkedin.com/in/joaovidalnt/"</strong>
+ 📑 Propostas: <strong><a href="https://www.linkedin.com/in/joaovidalnt/">LinkedIn</a></strong>
 </p>
 
  
