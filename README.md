@@ -4,16 +4,16 @@
 </p>
 
 <p align="left">
- 💻 Habilidades: <strong>HTML 🔶, CSS 🟣, JavaScript 🟨.</strong>
+ 💻 Habilidades: <strong>HTML 🔶, CSS 🟣 e JavaScript 🟨.</strong>
 </p>
 
 <p align="left"> 
-  📚 Estudando: <strong>Bootstrap 🟣, ReactJS 🟦, NodeJS 🟩.</strong>
+  📚 Estudando: <strong>Bootstrap 🟣, ReactJS 🟦 e NodeJS 🟩.</strong>
 </p>
   
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code 🔹, Git 🔸 e GitHub 🔸.</strong>
+  💼 Ferramentas: <strong>WSL2 🐧, VS Code 🔹, Git 🔸 e GitHub 🔸.</strong>
 </p>
 
 <hr>
