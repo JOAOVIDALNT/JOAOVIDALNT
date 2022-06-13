@@ -1,4 +1,4 @@
-
+<div width="70%" id="left">
 <p align="left"> 
  👋 Olá, meu nome é João Vidal. Sou aspirante a <strong>Front-end developer</strong>.
 </p>
@@ -15,6 +15,16 @@
 <p align="left">
   💼 Ferramentas: <strong>WSL 🐧, VS Code 🔹, Git 🔸 e GitHub :octocat:.</strong>
 </p>
+</div>
+
+<div width="25%" id="right">
+ <ul> 
+  <li><a href="https://www.linkedin.com/in/joaovidalnt/">LinkedIn</li>
+   
+ </ul>
+ 
+ 
+</div>
 
 <hr>
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
