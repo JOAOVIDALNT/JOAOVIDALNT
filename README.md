@@ -21,7 +21,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical" />
 </a>
 
+<a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical" />
+</a>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical)](https://github.com/JOAOVIDALNT/JOAOVIDALNT)
+<!-- [![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical)](https://https://github.com/JOAOVIDALNT/JOAOVIDALNT) -->
+<!--  -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical)](https://github.com/JOAOVIDALNT/JOAOVIDALNT) -->
