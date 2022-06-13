@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
- 💻 Habilidades: <strong>HTML 🔶, CSS 🟣 e JavaScript 🟨.</strong>
+ 💻 Habilidades: <strong>HTML 🔶, CSS 🟣, SASS 🌸 e JavaScript 🟨.</strong>
 </p>
 
 <p align="left"> 
