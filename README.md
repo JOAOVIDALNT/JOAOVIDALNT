@@ -19,7 +19,7 @@
 
 
  
-  <li align="right"><a href="https://www.linkedin.com/in/joaovidalnt/">LinkedIn</li>
+  <li align="top-right"><a href="https://www.linkedin.com/in/joaovidalnt/">LinkedIn</li>
    
  
 
