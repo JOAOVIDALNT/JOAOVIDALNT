@@ -17,9 +17,9 @@
 </p>
 </div>
 
-<div aling="right" width="25%" id="right">
+<div width="25%" id="right">
  <ul> 
-  <li><a href="https://www.linkedin.com/in/joaovidalnt/" text-decoration="none">LinkedIn</li>
+  <li align="right"><a href="https://www.linkedin.com/in/joaovidalnt/">LinkedIn</li>
    
  </ul>
 
