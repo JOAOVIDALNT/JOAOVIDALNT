@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical" />
 </a>
 
 
