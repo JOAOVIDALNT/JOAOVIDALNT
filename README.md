@@ -8,7 +8,7 @@
 </p>
 
 <p align="left"> 
-  📚 Estudando: <strong>Bootstrap 🟣, ReactJS 🟦 e NodeJS 🟩.</strong>
+  📚 Estudando: <strong>Bootstrap 🟣, ReactJS :electron: e NodeJS :atom:.</strong>
 </p>
   
 
