@@ -16,16 +16,15 @@
   💼 Ferramentas: <strong>WSL 🐧, VS Code 🔹, Git 🔸 e GitHub :octocat:.</strong>
 </p>
 
+<p align="left">
+  📬 Contato: <strong>dev.joaovidal@gmail.com</strong>
+</p>
 
+<p align="left">
+  📑 Propostas: <strong><a href="https://www.linkedin.com/in/joaovidalnt/"</strong>
+</p>
 
  
-  <li align="top-right"><a href="https://www.linkedin.com/in/joaovidalnt/">LinkedIn</li>
-   
- 
-
- 
- 
-
 
 <hr>
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
