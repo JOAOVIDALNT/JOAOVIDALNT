@@ -17,11 +17,17 @@
 </p>
 </div>
 
-<div width="25%" id="right">
+<div aling="right" width="25%" id="right">
  <ul> 
   <li><a href="https://www.linkedin.com/in/joaovidalnt/">LinkedIn</li>
    
  </ul>
+ 
+ <style>
+  #right {
+  text-decoration: none;
+  }
+ </style>
  
  
 </div>
