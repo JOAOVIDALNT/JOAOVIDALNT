@@ -13,7 +13,7 @@
   
 
 <p align="left">
-  💼 Ferramentas: <strong>WSL2 🐧, VS Code 🔹, Git 🔸 e GitHub 🔸.</strong>
+  💼 Ferramentas: <strong>WSL 🐧, VS Code 🔹, Git 🔸 e GitHub :octocat:.</strong>
 </p>
 
 <hr>
