@@ -8,7 +8,7 @@
 </p>
 
 <p align="left"> 
-  📚 Estudando: <strong>Bootstrap 🟣, ReactJS 🟦 e NodeJS 🟩.</strong>
+  📚 Estudando: <strong> Java ☕, Springboot 🍃 e React 🟦</strong>
 </p>
   
 
