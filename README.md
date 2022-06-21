@@ -8,7 +8,7 @@
 </p>
 
 <p align="left"> 
-  📚 Estudando: <strong> Java ☕, Springboot 🍃 e React 🟦</strong>
+  📚 Estudando: <strong> Java ☕, Springboot 🍃 e React 🟦.</strong>
 </p>
   
 
