@@ -32,7 +32,7 @@
  
 <h4> 📬 Contact and 📑 Offers </h4>
 <p align="center">
- <a href="dev.joaovidal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="mailto:dev.joaovidal@gmail.com?subject= Hello João"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="left">
