@@ -1,5 +1,5 @@
 
-<p align="left"> 
+<p align="center"> 
  👋 Hi, my name is João and I'm a <strong>Software Developer Student</strong> from Brasil.
 </p>
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 </p>
  
-<h4 align="center> 📬 Contact and Offers </h4>
+<h4 align="center"> 📬 Contact and Offers </h4>
 <p align="center">
  <a href="mailto:dev.joaovidal@gmail.com?subject=Olá João,"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/joaovidalnt/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
