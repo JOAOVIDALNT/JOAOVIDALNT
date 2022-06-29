@@ -13,7 +13,7 @@
  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 </p>
 
-<h3>📚 Studying</h3>
+<h3 align="center">📚 Studying</h3>
 <p align="center"> 
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -21,7 +21,7 @@
 </p>
   
 
-<h3>💼 Tools</h3>
+<h3 align="center">💼 Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -30,19 +30,14 @@
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 </p>
  
-<h4> 📬 Contact and 📑 Offers </h4>
+<h4 align="center> 📬 Contact and Offers </h4>
 <p align="center">
  <a href="mailto:dev.joaovidal@gmail.com?subject=Olá João,"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/joaovidalnt/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p align="left">
- 📑 Offers: <strong><a href="https://www.linkedin.com/in/joaovidalnt/">LinkedIn</a></strong>
-</p>
-
- 
-
 <hr>
+
 <p align="center">
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
 <img src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical" />
