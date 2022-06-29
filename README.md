@@ -28,11 +28,11 @@
 
 <hr>
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
-<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical" />
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
-<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical" />
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical" />
 </a>
 
 
