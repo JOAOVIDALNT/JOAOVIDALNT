@@ -1,6 +1,6 @@
 
 <p align="center"> 
- 👋 Hi, my name is João and I'm a <strong>Software Developer Student</strong> from Brasil.
+ 👋 Hi, my name is João and I'm a <strong>Software Developer Student.</strong>
 </p>
 
 <h3 align="center">💻 Habilities</h3>
