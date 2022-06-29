@@ -1,6 +1,6 @@
 
 <p align="left"> 
- 👋 Hi, my name is João and I'm a <strong>Softweare Developer Student</strong> from Brasil.
+ 👋 Hi, my name is João and I'm a <strong>Software Developer Student</strong> from Brasil.
 </p>
 
  <h3>💻 Habilities</h3>
@@ -8,13 +8,13 @@
  <strong>HTML 🔶, CSS 🟣, SASS 🌸 and JavaScript 🟨.</strong>
 </p>
 
-<h5>📚 Studying</h5>
+<h3>📚 Studying</h3>
 <p align="left"> 
  <strong> Java ☕, Springboot 🍃 and React 🟦.</strong>
 </p>
   
 
-<h5>💼 Tools</h5>
+<h3>💼 Tools</h3>
 <p align="left">
  <strong>WSL 🐧, VS Code 🔹, Git 🔸 and GitHub :octocat:.</strong>
 </p>
