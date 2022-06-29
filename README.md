@@ -32,7 +32,8 @@
  
 <h4> 📬 Contact and 📑 Offers </h4>
 <p align="center">
- <a href="mailto:dev.joaovidal@gmail.com?subject= Hello João"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="mailto:dev.joaovidal@gmail.com?subject=Olá João,"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/joaovidalnt/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="left">
