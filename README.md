@@ -3,18 +3,20 @@
  👋 Hi, my name is João and I'm a <strong>Softweare Developer Student</strong> from Brasil.
 </p>
 
- <h2>💻 Habilities</h2>:
+ <h5>💻 Habilities</h5>
 <p align="left">
  <strong>HTML 🔶, CSS 🟣, SASS 🌸 and JavaScript 🟨.</strong>
 </p>
 
+<h5>📚 Studying</h5>
 <p align="left"> 
-  📚 Studying: <strong> Java ☕, Springboot 🍃 and React 🟦.</strong>
+ <strong> Java ☕, Springboot 🍃 and React 🟦.</strong>
 </p>
   
 
+<h5>💼 Tools</h5>
 <p align="left">
-  💼 Tools: <strong>WSL 🐧, VS Code 🔹, Git 🔸 and GitHub :octocat:.</strong>
+ <strong>WSL 🐧, VS Code 🔹, Git 🔸 and GitHub :octocat:.</strong>
 </p>
 
 <p align="left">
