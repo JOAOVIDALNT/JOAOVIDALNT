@@ -3,9 +3,9 @@
  👋 Hi, my name is João and I'm a <strong>Software Developer Student</strong> from Brasil.
 </p>
 
- <h3 align="center">💻 Habilities</h3>
+ <h3 align="left" width="30%">💻 Habilities</h3>
  <hr>
-<p align="center">
+<p align="left" width="30%">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
