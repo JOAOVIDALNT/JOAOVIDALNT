@@ -3,7 +3,7 @@
  👋 Hi, my name is João and I'm a <strong>Softweare Developer Student</strong> from Brasil.
 </p>
 
- <h5>💻 Habilities</h5>
+ <h3>💻 Habilities</h3>
 <p align="left">
  <strong>HTML 🔶, CSS 🟣, SASS 🌸 and JavaScript 🟨.</strong>
 </p>
