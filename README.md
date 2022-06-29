@@ -37,9 +37,11 @@
  
 
 <hr>
-<a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT" align="center"> 
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical" />
+<p align="center">
+<a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
+<img src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical" />
 </a>
+ </p>
 
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT" align="center"> 
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical" />
