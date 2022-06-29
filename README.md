@@ -41,11 +41,13 @@
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
 <img src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical" />
 </a>
- </p>
+</p>
 
+<p align="center">
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT" align="center"> 
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical" />
 </a>
+</p>
 
 
 <!-- [![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical)](https://https://github.com/JOAOVIDALNT/JOAOVIDALNT) -->
