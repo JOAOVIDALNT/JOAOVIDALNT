@@ -3,9 +3,9 @@
  👋 Hi, my name is João and I'm a <strong>Software Developer Student</strong> from Brasil.
 </p>
 
-<h3 align="left" width="10%">💻 Habilities</h3>
+<h3 align="center">💻 Habilities</h3>
  
-<p align="left" width="10%">
+<p align="center">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
@@ -14,7 +14,7 @@
 </p>
 
 <h3>📚 Studying</h3>
-<p align="left"> 
+<p align="center"> 
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -22,12 +22,17 @@
   
 
 <h3>💼 Tools</h3>
-<p align="left">
-
+<p align="center">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 </p>
-
-<p align="left">
-  📬 Contact: <strong>dev.joaovidal@gmail.com</strong>
+ 
+<h4> 📬 Contact and 📑 Offers </h4>
+<p align="center">
+ <a href="dev.joaovidal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="left">
