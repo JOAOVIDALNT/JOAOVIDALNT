@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <code> 👋 Hi, my name is João and I'm a <strong>Software Developer Student.</strong> </code>
+ <code> 👋 Hi, my name is João and I'm a <strong>Back-end Developer Student.</strong> </code>
 </p>
 
 <h3 align="center">💻 Habilities</h3>
