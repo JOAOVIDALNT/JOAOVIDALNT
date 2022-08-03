@@ -1,9 +1,9 @@
-
+<code>
 <p align="center"> 
  👋 Hi, my name is João and I'm a <strong>Software Developer Student.</strong>
 </p>
 
-<h3 align="center">💻 <code></strong></code>Habilities</h3>
+<h3 align="center">💻 Habilities</h3>
  
 <p align="center">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -52,5 +52,8 @@
 
 
 <!-- [![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical)](https://https://github.com/JOAOVIDALNT/JOAOVIDALNT) -->
+
 <!--  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical)](https://github.com/JOAOVIDALNT/JOAOVIDALNT) -->
+
+</code>
