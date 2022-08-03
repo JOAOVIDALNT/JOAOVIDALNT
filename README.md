@@ -1,6 +1,6 @@
-<code> teste </code>
+
 <p align="center"> 
- 👋 Hi, my name is João and I'm a <strong>Software Developer Student.</strong>
+ <code> 👋 Hi, my name is João and I'm a <strong>Software Developer Student.</strong> </code>
 </p>
 
 <h3 align="center">💻 Habilities</h3>
