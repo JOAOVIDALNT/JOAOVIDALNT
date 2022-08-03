@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
  </p> 
 
-<h3 align="center"> 🧰 ⚙️ 🔨 ⚒️ Other tools</h3>
+<h3 align="center">🧰 Other tools</h3>
 <p align="center"> 
  <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
