@@ -7,7 +7,8 @@
  
  <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="100px" width="100px" />
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+ 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="100px" width="100px" />
 </p> 
 
 <h3 align="center">📚 Studying</h3>
