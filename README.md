@@ -3,7 +3,7 @@
  👋 Hi, my name is João and I'm a <strong>Software Developer Student.</strong>
 </p>
 
-<h3 align="center">💻 Habilities</h3>
+<h3 align="center">💻 <code></strong></code>Habilities</h3>
  
 <p align="center">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,9 +15,8 @@
 
 <h3 align="center">📚 Studying</h3>
 <p align="center"> 
- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </p>
   
 
