@@ -1,4 +1,4 @@
-<code>
+<code> teste </code>
 <p align="center"> 
  👋 Hi, my name is João and I'm a <strong>Software Developer Student.</strong>
 </p>
@@ -55,5 +55,3 @@
 
 <!--  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical)](https://github.com/JOAOVIDALNT/JOAOVIDALNT) -->
-
-</code>
