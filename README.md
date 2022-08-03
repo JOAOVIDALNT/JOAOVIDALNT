@@ -3,15 +3,12 @@
  <code> 👋 Hi, my name is João and I'm a <strong>Back-end Developer Student.</strong> </code>
 </p>
 
-<h3 align="center">💻 Habilities</h3>
+<h3 align="center">Main tools</h3>
  
-<p align="center">
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+ <p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
- <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-</p>
+</p> 
 
 <h3 align="center">📚 Studying</h3>
 <p align="center"> 
