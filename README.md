@@ -40,7 +40,7 @@
 
 <h3 align="center"> :movie_camera: Live coding at </h3>
 <p align="center"> 
-<a href="https://www.twitch.tv/devjoaovidal" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
+<a href="https://www.twitch.tv/fejota_dev" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
 </p>
 
 <hr>
