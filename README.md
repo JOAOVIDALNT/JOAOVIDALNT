@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <code> 👋 Hi, my name is João Vidal and I'm a <strong>Back-end Developer.</strong> </code>
+ <code> 👋 Hi there. I'm the best software developer from my hood </code>
 </p>
 
 <h3 align="center"> 📬 Contact and Offers </h3>
