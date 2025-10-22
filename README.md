@@ -2,7 +2,7 @@
 <p align="center"> 
  <code> 👋 Hi there! I'm João Vidal — a.k.a. the best software developer in my hood. Check out my pinned projects 👇 </code>
 </p>
-
+<br>
 <p align="center">
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
 <img src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=radical" />
