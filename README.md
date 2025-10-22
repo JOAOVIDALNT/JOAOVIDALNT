@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <code> 👋 Hi there. I'm the best software developer from my hood </code>
+ <code> 👋 Hi there! I'm João Vidal — a.k.a. the best software developer in my hood. Check out my pinned projects 👇 </code>
 </p>
 
 <h3 align="center"> 📬 Contact and Offers </h3>
