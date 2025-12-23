@@ -21,7 +21,17 @@
 
 <p align="center">
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=radical" />
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact" />
+</picture>
 </a>
 </p>
 
