@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<code>👋 Hi there! I'm João Vidal. If you're a .NET developer and don't want to go bald, use <a href="https://www.nuget.org/packages/valet/" target="_blank" rel="noopener noreferrer">Valet</a>.</code>
+<code>👋 Hi there! I'm João Vidal. If you're a .NET developer and don't want to go bald, use <a href="https://www.nuget.org/packages/valet/">Valet</a>.</code>
 </p>
 <br>
 
