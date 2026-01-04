@@ -1,23 +1,8 @@
 
 <p align="center"> 
- <code> 👋 Hi there! I'm João Vidal — a.k.a. the best software developer in my hood. Check out my pinned projects 👇 </code>
+ <code> 👋 Hi there! I'm João Vidal. If you're a .NET developer and don't want to go bald, just use [Valet](https://www.nuget.org/packages/valet/). </code>
 </p>
 <br>
-<p align="center">
-<a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=JOAOVIDALNT&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=JOAOVIDALNT&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=JOAOVIDALNT&hide_border=true" />
-</picture>
-</a>
-</p>
 
 <hr>
 
