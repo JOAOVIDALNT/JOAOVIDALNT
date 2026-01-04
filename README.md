@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <code> 👋 Hi there! I'm João Vidal. If you're a .NET developer and don't want to go bald, just use [Valet](https://www.nuget.org/packages/valet/). </code>
+👋 Hi there! I'm João Vidal. If you're a .NET developer and don't want to go bald, just use [Valet](https://www.nuget.org/packages/valet/).
 </p>
 <br>
 
