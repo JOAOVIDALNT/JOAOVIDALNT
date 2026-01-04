@@ -7,30 +7,14 @@
 <a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true&theme=dark"
+    srcset="https://streak-stats.demolab.com?user=JOAOVIDALNT&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true"
+    srcset="https://streak-stats.demolab.com?user=JOAOVIDALNT&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=JOAOVIDALNT&show_icons=true" />
-</picture>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/JOAOVIDALNT/JOAOVIDALNT"> 
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAOVIDALNT&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=JOAOVIDALNT&hide_border=true" />
 </picture>
 </a>
 </p>
